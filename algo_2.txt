@@ -1,0 +1,37 @@
+Algorithm 2 : Selection of Forwarding Sensor Nodes
+--------------------------------------------------
+Node Data Load Weights (epsilon) :
+	Node 1 : 29
+	Node 2 : 33
+	Node 3 : 78
+	Node 4 : 83
+	Node 5 : 97
+	Node 6 : 92
+	Node 7 : 36
+	Node 8 : 90
+	Node 9 : 82
+	Node 10 : 25
+
+Network Connections (NE) :
+	Node 1 is connected to -> Node(s) [10, 3, 9]
+	Node 2 is connected to -> Node(s) [7]
+	Node 3 is connected to -> Node(s) [6, 2]
+	Node 4 is connected to -> Node(s) [10]
+	Node 5 is connected to -> Node(s) [8]
+	Node 6 is connected to -> Node(s) [5, 6]
+	Node 7 is connected to -> Node(s) [7, 2]
+	Node 8 is connected to -> Node(s) [2]
+	Node 9 is connected to -> Node(s) [2]
+	Node 10 is connected to -> Node(s) [2, 10, 6]
+
+Selected Forwarding Nodes (FN) :
+	Node 1 forwards data to -> Node 9
+	Node 2 forwards data to -> Node 7
+	Node 3 forwards data to -> Node 6
+	Node 4 forwards data to -> Node 6
+	Node 5 forwards data to -> Node 2
+	Node 6 forwards data to -> Node 5
+	Node 7 forwards data to -> Node 7
+	Node 8 forwards data to -> Node 7
+	Node 9 forwards data to -> Node 7
+	Node 10 forwards data to -> Node 6
