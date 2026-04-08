@@ -1,0 +1,15 @@
+=== Algorithm 3 Output ===
+a = 2.718281828459045
+c = 4.6692016091
+
+First 5 Nodes:
+Node 1: [0.31, 0.26, 1.34, 0.73, 0.72]
+Node 2: [0.62, 2.03, 1.17, 3.58, 1.06]
+Node 3: [1.16, 2.74, 0.48, 0.33, 0.44]
+Node 4: [2.09, 1.35, 0.77, 1.02, 0.92]
+Node 5: [0.38, 0.93, 0.43, 1.86, 0.71]
+
+Observations:
+- The packet generation follows a uniform pattern across all nodes and time slots.
+- The generated packet values remain within the defined range [P1, P2].
+- The traffic pattern is consistent, making it suitable for continuous monitoring applications in wireless sensor networks.

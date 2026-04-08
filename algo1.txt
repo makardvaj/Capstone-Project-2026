@@ -1,0 +1,14 @@
+a = 2.502907875
+c = 1.9021605831
+
+First 5 Nodes:
+Node 1: (9.53, 10.13)
+Node 2: (25.75, 27.85)
+Node 3: (66.35, 72.21)
+Node 4: (67.96, 83.25)
+Node 5: (72.0, 10.87)
+
+Observations:
+- The deployment generated using Algorithm 1 shows a pseudo-random distribution of sensor nodes over the given area.
+- The use of a deterministic seed ensures that the same node positions are reproduced in every execution.
+- The distribution appears random, but it is controlled and reproducible, which is important for validating WSN simulations
